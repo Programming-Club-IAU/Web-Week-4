@@ -1,4 +1,4 @@
-## Week 5-6: Advanced CSS Layouts 🎨
+## Week 4: Advanced CSS Layouts 🎨
 
 ### In this week you will learn: 🏫
 
